@@ -384,9 +384,6 @@ label {
 
 /* Upload File */
 
-.upload {
-}
-
 .file {
   display: flex;
   flex-direction: row;
@@ -415,8 +412,6 @@ label {
   }
 }
 
-
-
 /* Contact */
 
 .user-input {
@@ -424,7 +419,6 @@ label {
   flex-direction: row;
   justify-content: space-between;
   gap: 1rem;
-  margin-bottom: 2rem;
 }
 
 .email {
@@ -435,12 +429,13 @@ label {
   width: 100%;
 }
 
+
+/* Terms */
+
 .terms {
   border-top: 2px solid var(--bg-300);
   padding-top: 3rem;
 }
-
-/* Terms */
 
 .terms-input {
   display: flex;
