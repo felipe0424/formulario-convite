@@ -1,7 +1,7 @@
 <body>
     <div align="center">
         <a href="https://formulario-convite.vercel.app/" target="_blank">
-        <img src="src/assets/images/Thumbnail.png" alt="Formulário Convite" width="auto">
+        <img src="src/assets/images/thumbnail.svg" alt="Formulário Convite" width="auto">
         </a>
     </div>
 </body>
